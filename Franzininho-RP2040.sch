@@ -164,8 +164,6 @@ Wire Wire Line
 Wire Wire Line
 	775  5025 1275 5025
 Wire Wire Line
-	775  6325 1275 6325
-Wire Wire Line
 	775  6425 1275 6425
 Wire Wire Line
 	2475 7125 2475 7175
@@ -814,8 +812,6 @@ Wire Wire Line
 Connection ~ 7075 3950
 Wire Wire Line
 	5700 3950 6300 3950
-Text Notes 5775 6925 0    197  ~ 0
-SWD
 $Comp
 L Connector_Generic:Conn_01x03 J3
 U 1 1 61A8AFD3
@@ -827,16 +823,10 @@ F 3 "~" H 5850 7350 50  0001 C CNN
 	1    5850 7350
 	-1   0    0    -1  
 $EndComp
-Text Label 775  6325 0    50   ~ 0
-SWCLK
 Text Label 775  6425 0    50   ~ 0
 SWDIO
 Wire Wire Line
-	6375 7250 6050 7250
-Wire Wire Line
 	6375 7450 6050 7450
-Text Label 6375 7250 2    50   ~ 0
-SWDCLK
 Text Label 6375 7450 2    50   ~ 0
 SWDIO
 $Comp
@@ -1434,4 +1424,14 @@ F 3 "" H 10200 2200 50  0001 C CNN
 $EndComp
 Wire Notes Line
 	8976 484  8976 6543
+Wire Wire Line
+	6375 7250 6050 7250
+Text Label 6373 7250 2    50   ~ 0
+SWDCLK
+Text Notes 5775 6925 0    197  ~ 0
+SWD
+Wire Wire Line
+	775  6325 1275 6325
+Text Label 775  6325 0    50   ~ 0
+SWDCLK
 $EndSCHEMATC
