@@ -1064,7 +1064,7 @@
   )
 
   (module Connector_PinHeader_2.54mm:PinHeader_1x17_P2.54mm_Vertical (layer F.Cu) (tedit 59FED5CC) (tstamp 61C2ED7D)
-    (at 86.36 -6.35 180)
+    (at 85.09 -6.35 180)
     (descr "Through hole straight pin header, 1x17, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x17 2.54mm single row")
     (path /61E6CAB5)
