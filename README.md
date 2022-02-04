@@ -18,8 +18,8 @@ Recursos:
    
  - OPÇÃO:
     - Fazer teclado como placa de expansão
-    - Comunicação infrared - https://youtu.be/LPeMlFf0Qso
-
+    - Comunicação infrared: https://youtu.be/LPeMlFf0Qso  https://youtu.be/GHWm4mRImoI
+ 
 Referências
 RP2040
 
