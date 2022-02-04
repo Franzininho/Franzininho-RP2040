@@ -17,7 +17,8 @@ Recursos:
     https://github.com/sekigon-gonnoc/qmk_firmware/tree/rp2040/keyboards/pico_pico_usb
    
  - OPÇÃO:
- -  Fazer teclado como placa de expansão
+    - Fazer teclado como placa de expansão
+    - Comunicação infrared - https://youtu.be/LPeMlFf0Qso
 
 Referências
 RP2040
