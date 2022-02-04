@@ -23,13 +23,14 @@ Recursos:
 Referências
 RP2040
 
-https://arcade.makecode.com/hardware/adding
-https://github.com/microsoft/pxt-arcade-hardware-designs/tree/master/ArcadeMVD-STM%20v1.5
-https://news.mkme.org/?p=21518
-https://github.com/microsoft/pxt-arcade-hardware-designs/tree/master/microbit-shield
-https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf
-https://www.sparkfun.com/rp2040#resources
-https://www.youtube.com/watch?v=2eB8p8vo7lw
-https://github.com/pa-art/test_usb_host
-https://github.com/sekigon-gonnoc/qmk_firmware/tree/rp2040/keyboards/pico_pico_usb
-https://learn.adafruit.com/adafruit-pygamer/which-board
+- https://arcade.makecode.com/hardware/adding
+- https://github.com/microsoft/pxt-arcade-hardware-designs/tree/master/ArcadeMVD-STM%20v1.5
+- https://news.mkme.org/?p=21518
+- https://github.com/microsoft/pxt-arcade-hardware-designs/tree/master/microbit-shield
+- https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf
+- https://www.sparkfun.com/rp2040#resources
+- https://www.youtube.com/watch?v=2eB8p8vo7lw
+- https://github.com/pa-art/test_usb_host
+- https://github.com/sekigon-gonnoc/qmk_firmware/tree/rp2040/keyboards/pico_pico_usb
+- https://learn.adafruit.com/adafruit-pygamer/which-board
+- https://www.cnx-software.com/2021/12/31/mico-a-usb-microphone-based-on-raspberry-pi-rp2040-mcu/
