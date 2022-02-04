@@ -15,10 +15,13 @@ Recursos:
     https://youtu.be/2eB8p8vo7lw
     https://github.com/pa-art/test_usb_host
     https://github.com/sekigon-gonnoc/qmk_firmware/tree/rp2040/keyboards/pico_pico_usb
-   
+- Saída de áudio
+- Saída video 
+-    
  - OPÇÃO:
     - Fazer teclado como placa de expansão
     - Comunicação infrared: https://youtu.be/LPeMlFf0Qso  https://youtu.be/GHWm4mRImoI
+    - Motor vibracall
  
 Referências
 RP2040
